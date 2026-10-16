@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/jupyter-output-monitor/commit/069b71b2b94174fe953e6171d52f055611b98efb",
       "git:hexsha": "069b71b2b94174fe953e6171d52f055611b98efb",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.1.0a1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.1.0a1",
+      "repolex:parsedAt": "2026-10-16T02:51:03.397546+00:00"
     }
   ]
 }
