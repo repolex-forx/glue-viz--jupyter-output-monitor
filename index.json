@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "jupyter-output-monitor",
+  "versions": [
+    {
+      "commit": "069b71b2b94174fe953e6171d52f055611b98efb",
+      "tag": "v0.1.0a1",
+      "parsed_at": "2026-10-16T02:51:03.398067+00:00"
+    }
+  ]
+}
